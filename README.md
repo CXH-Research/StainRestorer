@@ -69,5 +69,13 @@ python infer.py
 # Citation
 
 ```bib
+@inproceedings{li2025high,
+  title={High-fidelity document stain removal via a large-scale real-world dataset and a memory-augmented transformer},
+  author={Li, Mingxian and Sun, Hao and Lei, Yingtie and Zhang, Xiaofeng and Dong, Yihang and Zhou, Yilin and Li, Zimeng and Chen, Xuhang},
+  booktitle={2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  pages={7614--7624},
+  year={2025},
+  organization={IEEE}
+}
 ```
 
