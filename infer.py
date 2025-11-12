@@ -29,7 +29,7 @@ def infer():
     testloader = DataLoader(dataset=val_dataset, batch_size=1, shuffle=False, num_workers=8, drop_last=False, pin_memory=True)
 
     # Model & Metrics
-    model = Model()
+    model = StainRestorer()
 
     load_checkpoint(model, opt.TESTING.WEIGHT)
 
